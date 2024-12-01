@@ -1,0 +1,41 @@
+{
+  "common": {
+    "search": "Search",
+    "from": "From",
+    "to": "To",
+    "date": "Date",
+    "book": "Book Now",
+    "viewDetails": "View Details",
+    "loading": "Loading...",
+    "notFound": "Not Found",
+    "error": "Error"
+  },
+  "nav": {
+    "routes": "Routes",
+    "islands": "Islands",
+    "schedule": "Schedule",
+    "contact": "Contact",
+    "hopping": "Hopping",
+    "hotels": "Hotels",
+    "carRentals": "Car Rentals",
+    "businesses": "Businesses"
+  },
+  "home": {
+    "hero": {
+      "title": "Explore the Cyclades Islands",
+      "subtitle": "Find and book ferry routes between the beautiful Greek islands"
+    },
+    "search": {
+      "title": "Search Routes",
+      "selectDeparture": "Select departure",
+      "selectDestination": "Select destination"
+    },
+    "partners": {
+      "title": "Our Trusted Partners"
+    },
+    "popular": {
+      "title": "Popular Destinations",
+      "subtitle": "Discover the most visited islands in the Cyclades"
+    }
+  }
+}
